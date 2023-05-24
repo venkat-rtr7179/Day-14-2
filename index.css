@@ -1,0 +1,22 @@
+td,th{
+    
+  border-collapse: collapse;
+  padding: 10px;
+
+}
+tr:nth-child(odd) {
+  background-color: #61e2c2;
+}
+button{
+  border: 5px;
+}
+#page{
+  text-align: center;
+  
+}
+#cont{
+  padding-left: 35%;
+  padding-bottom: 250px;
+  padding-top: 15%;
+  align-content: center;
+}
